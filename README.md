@@ -2,6 +2,7 @@
 
 This project automates the extraction, validation, and processing of slip data using the Microsoft Power Platform, including Power Apps, Power Automate, AI Builder, and SharePoint. It streamlines the process of document submission, data extraction, review, and policy creation, enhancing accuracy and reducing manual effort in underwriting workflows.
 
+Achieved an accuracy of roughly 85% across different slip formats. Overall Slip Processing duration was reduced from 30 minutes to 2-3 minutes, producing almost 90% reduction in processing time.
 ---
 
 ## 📊 Solution Overview

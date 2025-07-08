@@ -6,7 +6,7 @@ Attained approximately 85% accuracy across various slip formats. The overall sli
 
 ---
 
-## 📊 Solution Overview
+## Solution Overview
 
 ### Architecture Approaches:
 
@@ -26,7 +26,7 @@ Attained approximately 85% accuracy across various slip formats. The overall sli
 
 ---
 
-### 💻 **Extended Integration: Desktop Flow Automation (VM-Based)**
+### **Extended Integration: Desktop Flow Automation (VM-Based)**
 After successfully completing the data extraction proof of concept (POC), we extended the solution by integrating a **Virtual Machine (VM)** to run **Power Automate Desktop Flows**.
 
 - Once the extracted and validated data is submitted, a **Desktop Flow** (attended/unattended) runs on a dedicated VM.
@@ -35,7 +35,7 @@ After successfully completing the data extraction proof of concept (POC), we ext
 
 ---
 
-## 🖥️ Solution Components
+## Solution Components
 
 ### Power Apps (User Interface)
 #### Screen 1: Document Upload & Review Dashboard
@@ -73,7 +73,7 @@ After successfully completing the data extraction proof of concept (POC), we ext
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **Power Apps** (UI & Low-Code App Development)
 - **Power Automate Cloud & Desktop Flows** (Automation)
 - **AI Builder** (Document AI Extraction)
@@ -82,7 +82,7 @@ After successfully completing the data extraction proof of concept (POC), we ext
 
 ---
 
-## 📂 Solution Architecture Diagrams
+## Solution Architecture Diagrams
 
 ### Mailbox-Based Approach:
 ![Mailbox Approach](Solution%20Architecture%20-%20Mailbox%20Approach.jpg)
@@ -92,7 +92,7 @@ After successfully completing the data extraction proof of concept (POC), we ext
 
 ---
 
-## ✅ Key Features
+## Key Features
 - Fully automated slip data extraction workflow.
 - User-friendly Power Apps for data upload, review, and validation.
 - AI-powered extraction with low-code/no-code setup.
@@ -100,12 +100,12 @@ After successfully completing the data extraction proof of concept (POC), we ext
 
 ---
 
-## 📄 License
+## License
 This repository is for personal portfolio demonstration purposes only. No confidential or proprietary information is included.
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 Sarthak Sharma  
 *Low-Code Developer | AI Automation/Innovation Engineer*
 
